@@ -1,0 +1,139 @@
+
+.center{
+    vertical-align: middle;
+}
+
+.confidencial20{
+    font-style: italic;
+    vertical-align: middle;
+    text-align: center;
+    padding: 0px 10px;
+}
+
+.container{
+    margin-right: auto;
+    margin-left: auto;
+    width: auto;
+}
+
+.content{
+    padding: 0px 10px;
+}
+
+.conteudo-wrapper{
+    padding: 0px;
+}
+
+.conteudo-dados {
+    display: none;
+}
+
+.fa-search{
+    font-size:20px;
+    color: #F78E1E;
+}
+
+.form-horizontal .control-label{
+    text-align: left;
+}
+
+.error { 
+    border-color: #F70202;
+}
+
+.escondido {
+    display: none;
+}
+
+h3 {
+    margin: 0px 0px 10px 0px;
+}
+
+.inline {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.loader {
+    border: 5px solid #f3f3f3; /* Light grey */
+    border-top: 5px solid #3498db; /* Blue */
+    border-radius: 50%;
+    width: 25px;
+    height: 25px;
+    animation: spin 2s linear infinite;
+    display: inline-block;
+    vertical-align: middle;
+  }
+  
+  @keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+  }
+
+.margin0{
+    margin: 0px;
+}
+
+.margin0-0-10-0{
+    margin: 0px 0px 10px 0px;
+}
+
+.margin05{
+    margin: 0px 5px;
+}
+
+.margin10{
+    margin: 0px 10px;
+}
+
+.margin20{
+    margin: 0px 20px;
+}
+
+.padding0 {
+    padding: 0px;
+}
+
+.padding05 {
+    padding: 0px 5px;
+}
+
+.padding015{
+    padding: 0px 15px;
+}
+
+.padding1 {
+    padding: 1px;
+}
+
+.padding5 {
+    padding: 5px!important;
+}
+
+.padding7 {
+    padding: 7px;
+}
+
+.padding17 {
+    padding: 17px;
+}
+
+.pointer {
+    cursor: pointer;
+}
+
+.pontilhado {
+	/* background-color: #fff; */
+    border-top: 4px dotted #8c8b8b;
+    height:1px;
+    width:95%;
+}
+.pontilhado2 {
+	/* background-color: #fff; */
+    border-top: 4px dotted #8c8b8b;
+    height:1px;
+}
+
+
+
+
