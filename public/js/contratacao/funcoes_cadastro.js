@@ -21,6 +21,26 @@ _animaInputFile();
 // FUNÇÃO QUE PROIBE DAR UPLOAD EM ARQUIVOS QUE NÃO SEJAM OS PERMITIDOS do arquivo anima_input_file.js
 _tiposArquivosPermitidos();
 
+// ####################### VALIDAÇÃO DE SWIFT #######################
+
+// $('#swiftAbaBancoBeneficiario').change(function() {
+
+// });
+
+// $('#swiftAbaBancoIntermediario').change(function() {
+
+// });
+
+// ####################### VALIDAÇÃO DE IBAN #######################
+
+// $('#ibanBancoBeneficiario').on('change',function(){
+
+// });
+
+// $('#ibanBancoIntermediario').on('change',function(){
+
+// });
+
 // ####################### MARCARA DE DATA, CPF, CNPJ e dinheiro #######################
 
 $(document).ready(function(){

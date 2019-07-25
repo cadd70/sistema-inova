@@ -230,7 +230,7 @@
                 <label class="col-sm-2 control-label">Código SWIFT ou ABA:</label>
                 <div class="col-sm-4">
                     <input class="form-control" id="swiftAbaBancoBeneficiario" name="swiftAbaBancoBeneficiario" type="text">
-                    <div id="retornoBene"></div>
+                    <div class="spanValidacao" id="retornoBene"></div>
                 </div>
 
             </div>
@@ -240,7 +240,7 @@
                 <label class="col-sm-2 control-label">Código IBAN no Banco Beneficiário:</label>
                 <div class="col-sm-4">
                     <input type="text" class="form-control" id="ibanBancoBeneficiario" name="ibanBancoBeneficiario">
-                    <div id="spanIbanBeneficiario"></div>
+                    <div class="spanValidacao" id="spanIbanBeneficiario"></div>
                 </div>
 
                 <label class="col-sm-2 control-label">Conta no Banco Beneficiário <small>(Caso não possua o IBAN)</small>:</label>
@@ -284,7 +284,7 @@
                                 <label class="col-sm-2 control-label">Código SWIFT ou ABA:</label>
                                 <div class="col-sm-4">
                                     <input class="form-control iban" id="swiftAbaBancoIntermediario" name="swiftAbaBancoIntermediario" type="text">
-                                    <div id="retornoInte"></div>
+                                    <div class="spanValidacao" id="retornoInte"></div>
                                 </div>
 
                             </div>
@@ -300,7 +300,7 @@
 
                                 <label class="col-sm-2 control-label">Conta no Banco Intermediário <small>(Caso não possua o IBAN)</small>:</label>
                                 <div class="col-sm-4">
-                                    <input class="form-control" id="contaBancoIntermediario" name="contaBancoIntermediario" type="text">
+                                    <input class="spanValidacao" class="form-control" id="contaBancoIntermediario" name="contaBancoIntermediario" type="text">
                                 </div>
 
                             </div>
